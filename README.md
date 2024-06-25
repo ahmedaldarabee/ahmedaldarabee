@@ -5,6 +5,12 @@
 
 I have extensive experience as a project leader and contributor on GitHub. I regularly publish my projects and articles on GitHub and LinkedIn, aiming to benefit the IT-community. I completed several projects using HTML, CSS, JavaScript, and PHP to optimize page layouts. Additionally, I developed projects in C++ and Java to deepen my understanding and gain experience as a beginner. My primary goal is to continuously improve my skills in web design and development
 
-Skills: HTML / CSS / PHP / Java / JavaScript
+Skills:
+
+  * HTML
+  * CSS
+  * PHP
+  * Java
+  * JavaScript
 
 - 🔭 I’m currently working on this page. 

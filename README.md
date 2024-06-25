@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Ahmed Al Drabea</h1>
-<h3 align="center">software engineer - full stack web developer</h3>
+<h1 align="center">Hi, I'm Ahmed Al Drabea</h1>
+<h3 align="center">Software Engineer - Full Stack Web Developer</h3>
 
-<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" alt="Coding Image" >
+<img src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" align="right" alt="Coding Image" width="400" >
 
 
-- 💬 Ask me about **my skills**
+- 💬 Ask me about my skills
 
 - 📫 How to reach me **seahmednail@gmail.com**
 

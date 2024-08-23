@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/SeDarabi78" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sedarabi78" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ahmed-al-drabea-4928ba250/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-al-drabea" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ahmed-al-darabee-4928ba250/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-al-drabea" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/22073397/ahmednail" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ahmednail" height="30" width="40" /></a>
 <a href="https://www.facebook.com/Darabi78" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="darabi78" height="30" width="40" /></a>
 </p>

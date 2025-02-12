@@ -10,8 +10,9 @@
 <br/>
 
 <div align="center"> 
-  💬 Ask me about my web development skills, including **React.js, Redux, Redux Toolkit, Next.js, Node.js, Bootstrap, Git & GitHub, Tailwind CSS, AJAX, APIs, and more!**
-  🔥 **I'm currently improving my skills in web development by building multiple projects with AI and Firebase.** 🔥  
+  💬 Ask me about my web development skills<br>
+  like: React.js, Redux, Redux Toolkit, Next.js, Node.js, Bootstrap, Git & GitHub, Tailwind CSS, AJAX, APIs, and more!<br>
+  🔥 I'm currently improving my skills in web development by building multiple projects with AI and Firebase. 🔥  
 </div>
 
 <br/>

@@ -1,16 +1,16 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=ahmedaldarabee.ahmedaldarabee" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
-  font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Ahmed+Al+Darabee!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+;+I'm+Ahmed+Al+Darabee!;" />
 </h1>
+
 
 <h1 align="center">Software Engineer | Full-Stack Web Developer (MERN)</h1>
 
 <br/>
 
 <div align="center"> 
-  💬 Ask me about my web development skills, including **React.js, Redux, Redux Toolkit, Next.js, Node.js, Bootstrap, Git & GitHub, Tailwind CSS, AJAX, APIs, and more!**  
+  💬 Ask me about my web development skills, including **React.js, Redux, Redux Toolkit, Next.js, Node.js, Bootstrap, Git & GitHub, Tailwind CSS, AJAX, APIs, and more!**
   🔥 **I'm currently improving my skills in web development by building multiple projects with AI and Firebase.** 🔥  
 </div>
 
@@ -60,16 +60,19 @@
 
 <div align="center">
   <img width=390 src="https://streak-stats.demolab.com/?user=ahmedaldarabee&count_private=true&theme=react&border_radius=10" alt="GitHub streak stats"/>
-  <img width=390 src="https://github-readme-stats-ahmedaldarabee.vercel.app/api?username=ahmedaldarabee&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub readme stats" /> 
+  
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=ahmedaldarabee&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub readme stats" /> 
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats-ahmedaldarabee.vercel.app/api/top-langs/?username=ahmedaldarabee&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages used"/>
+
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedaldarabee&hide=html&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="Top languages used"/>
 </div>
 
 <hr/>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?
-  font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+;+Shoot+me+a+message+on+LinkedIn!;I'm+always+open+to+collaborations!">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Thanks+for+visiting!+;+Shoot+me+a+message+on+LinkedIn!;I'm+always+open+to+collaborations!" />
+</h3>
+
 </h3>
 
 <br/>

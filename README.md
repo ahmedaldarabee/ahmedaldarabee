@@ -61,8 +61,8 @@
 
 <div align="center">
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=ahmedaldarabee&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="GitHub readme stats" />&nbsp;&nbsp;&nbsp;
- ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedaldarabee&theme=react)
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahmedaldarabee&count_private=true&show_icons=true&theme=react)
+ (https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ahmedaldarabee&theme=react)
+ (https://github-readme-stats.vercel.app/api?username=ahmedaldarabee&count_private=true&show_icons=true&theme=react)
 </div>
 
 

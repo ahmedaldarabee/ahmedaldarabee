@@ -5,7 +5,7 @@
 </h1>
 
 
-<h1 align="center">Software Engineer | Full-Stack Web Developer (MERN)</h1>
+<h1 align="center">Software Engineer | Front-End Web Developer (MERN)</h1>
 
 <br/>
 

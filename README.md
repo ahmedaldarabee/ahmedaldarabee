@@ -40,11 +40,18 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,github,javascript,express,firebase,mongodb"/>
+    <img src="https://skillicons.dev/icons?i=react,redux,bootstrap,tailwind,html,css,javascript,typescript,git,github,next,vscode" />
     <br>
-    <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,html,css,git,next,vscode,typescript" />
+    <img src="https://skillicons.dev/icons?i=axios,figma,postman,materialui,cs,dotnet" />
   </a>
 </div>
+
+<br/>
+
+<div align="center">
+  <sub><strong>Also using:</strong> AOS, GSAP, framer-motion, Swagger, AJAX API, RESTful API, Notion, Slack</sub>
+</div>
+
 
 <br/>
 

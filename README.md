@@ -64,37 +64,6 @@
 
 <hr/>
 
-<h2 align="center"> ⟲ Featured Projects (From CV) ⟲ </h2>
-<br/>
-
-### 🔹 SyncHand – Project & Tasks Management Tool  
-**Team Leader | Full Stack | Next.js, Socket.IO, MongoDB, Clerk, Gemini AI API, Tailwind, PWA**  
-- Real-time team communication  
-- Smart AI assistant integrated inside the app  
-- Modular, scalable architecture  
-- Deep linking, clean code, and responsive UI  
-🔗 **Source Code:** https://github.com/ahmedaldarabee/SyncHand
-
----
-
-### 🔹 Darabee Store – eCommerce Web App  
-**React (Vite), TypeScript, Redux Toolkit, Bootstrap, Zod, RHF**  
-- Clean architecture  
-- Lazy loading, Intersection Observer  
-- Lottie animations & skeleton loaders  
-- Reusable UI components  
-🔗 **Source Code:** https://github.com/ahmedaldarabee/E-Commerce
-
----
-
-### 🔹 Healthy Nature – Doctor Appointment System  
-**Next.js 15, Strapi, Shadcn, HyperUI, Kinde Auth, REST API**  
-- Appointment booking + history  
-- Fully responsive UI  
-🔗 **Source Code:** https://github.com/ahmedaldarabee/Consultation-App-
-
-<hr/>
-
 <h2 align="center"> ⟲ GitHub Contributions ⟲ </h2>
 <br/>
 
